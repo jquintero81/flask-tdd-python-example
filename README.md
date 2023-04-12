@@ -1,4 +1,4 @@
-# Pyton TDD and flask example
+# Python TDD and flask example
 
 ## Local Environment
 
